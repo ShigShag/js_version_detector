@@ -26,17 +26,22 @@ Inline script at line 142        Not found - embedded   https://www.example.com
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-repo-url
+git clone https://github.com/ShigShag/js_version_detector
 ```
 
 1. Navigate to the directory of the cloned repository:
 ```bash
-cd your-repo-directory
+cd js_version_detector
 ```
 
 1. Install the required Python packages:
 ```bash
 pip install -r requirements.txt
+```
+
+1. Execute
+```bash
+python3 js_version_detector.py
 ```
 
 ---
