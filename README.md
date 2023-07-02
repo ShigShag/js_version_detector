@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 1. Execute
 ```bash
-python3 js_version_detector.py
+python3 js_version_detector.py --url [URL]
 ```
 
 ---
